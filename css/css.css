@@ -1,0 +1,241 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Pbtn{
+    color: #FC2257!important;
+    text-transform: uppercase;
+    margin-top: 15px!important;
+    border: 2px solid #ffffff00!important;
+    background: transparent;
+    border-radius: 20px!important;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 5px 10px;
+    transition:all 0.4s ease;
+}
+.Pbtn:hover{
+    color: #fff!important;
+    border: 2px solid #FC2257;
+    background-color: #FC2257;
+    margin: 0 5px;
+    border-radius: 20px;
+
+}
+.btn2{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #DC416A;
+    transition: 0.4s ease;
+}
+.btn2:hover{
+  text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff!important;
+    background-color: #FC2257;
+    border-radius: 20px;
+    padding: 0.7em;
+}
+.btn3{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    transition: 0.4s ease;
+}
+.btn3:hover{
+  text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff!important;
+    background-color: #FC2257;
+    border-radius: 20px;
+    padding: 0.7em;
+}
+.spand{
+  background: #FC2257;
+  height: 2px;
+  width: 60px;
+  display: block;
+  margin-top: 1rem;
+}
+.hrader{
+    background-image: url(../img/adventure-calm-clouds-414171.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    background-blend-mode: overlay;
+    background-color: #41260885;
+}
+header{
+}
+.icon{
+    color: #fff;
+    text-transform: uppercase;
+}
+.icon p{
+    margin: 0;
+    font-size: 14px;
+}
+.nav_ul{
+    margin-right: 0;
+}
+.nav_ul li{
+    border: 2px solid #ffffff00;
+    margin: 0 5px;
+    border-radius: 20px;
+    transition:all 0.4s ease;
+}
+.nav_ul li:hover{
+      border: 2px solid;
+}
+.nav_ul li a{
+    color: #fff;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+    padding: 0.2em 0.5em;
+}
+/* poster1 */
+.gift{
+    text-align: center;
+    padding-bottom: 40vh;
+}
+.gift h3{text-transform: capitalize;margin-top: 20vh;}
+.gift h1{
+    text-transform: uppercase;
+    font-size: 5vw;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+/* comment */
+.upcoming{
+    margin: 4rem;
+}
+.upcoming h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+.comment{
+    background: #F5F5F9;
+    text-align: center;
+}
+.postercomment{
+    padding: 3em 0;
+}
+.postercomment h4{
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: gray;
+    margin-bottom: 24px;
+}
+.postercomment p{
+    text-transform: capitalize;
+    font-weight: bold;
+    color: gray;
+}
+
+/* caard */
+.card{
+    border: none!important;
+
+}
+
+.card_img{
+    background: #EEEEEE;
+    transition: all 0.4s ease;
+    border-radius: 5px;
+}
+.card_img:hover{
+    padding: 0 15px 15px 0;
+}
+.card_body{}
+.card_body h5{
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+}
+.card_body p{
+    text-transform: capitalize;
+    color: gray;
+    font-size: 14px;
+}
+
+/* poster2 */
+
+.poster2{
+    background-image: url(../img/HEADER-POSTER.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    background-blend-mode: overlay;
+    background-color: #192f51a6;
+}
+.explor{}
+.explore_text{
+    padding: 8rem 0;
+    margin-left: 3em;
+}
+.explore_text *{
+  margin-left: 0;
+}
+.explore_text h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.explore_text p{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+
+
+/* tour */
+.tours{
+    margin: 5rem 0;
+}
+.tour_controler{}
+.tour_text{}
+.tour_text h1{
+    text-transform: uppercase;
+}
+.tour_text h5{
+    color: gray;
+    margin-top: 2em;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+.tour_img1{}
+.tour_img1 img{}
+.tour_img2{}
+.tour_img2 img{}
+footer{
+  background: #181A17;
+}
+.footer_text{
+    padding: 3em;
+    text-align: center;
+    color: #b6b4b4;
+}
+.footer_text h6{
+    text-transform: capitalize;
+}
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width: auto;
+  max-width: 500px;
+  margin: 20px auto;
+}

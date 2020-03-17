@@ -1,0 +1,40 @@
+
+/*--supper small--*/
+@media (max-width:300px) {
+}
+/*--supper small--*/
+
+
+
+
+/*--sm--*/
+@media (max-width: 575px) {
+}
+
+
+/*--sm--*/
+
+
+/*--md--*/
+@media (max-width: 765px) {
+ 
+}
+
+
+/*--md--*/
+
+/*--lg--*/
+@media (max-width: 991px) {
+
+}
+
+
+/*--lg--*/
+
+
+
+/*--xl--*/
+@media (max-width: 1199px) {
+
+}
+/*--xl--*/
